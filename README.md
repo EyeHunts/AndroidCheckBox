@@ -1,3 +1,3 @@
 # AndroidCheckBox
 Android CheckBox 
-https://tutorial.eyehunt.in/android/android-checkbox-example-kotlin/
+https://tutorial.eyehunts.com/android/android-checkbox-example-kotlin/
